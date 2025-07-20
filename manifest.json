@@ -1,0 +1,20 @@
+{
+  "name": "Are You Hungry Yet?",
+  "short_name": "Hungry?",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fffafc",
+  "theme_color": "#ff8bb3",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
